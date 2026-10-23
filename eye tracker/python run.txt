@@ -1,0 +1,1 @@
+& "C:\Users\darks\AppData\Local\Programs\Python\Python311\python.exe" "C:\Users\darks\OneDrive\Desktop\eye tracker\eye tracker mouse overlay.py"

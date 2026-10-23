@@ -1,0 +1,4 @@
+PyQt5 == 5.15.10
+opencv-python == 4.9.0.88
+mediapipe == 0.10.11
+pynput == 1.7.6
